@@ -6,7 +6,6 @@ A Twitter-like social networking service built from scratch to deployment. This 
 
 - **React & Next.js**: Client-side and Server-side Rendering (SSR)
 - **Redux & Redux Saga**: State Management & Asynchronous Flows
-- **React Hooks**
 - **Styled Components**
 - **Ant Design**
 - **SWR**: Data Fetching with Caching & Real-time Updates
